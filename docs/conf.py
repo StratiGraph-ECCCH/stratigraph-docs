@@ -37,6 +37,16 @@ exclude_patterns = [
 html_theme = 'sphinx_rtd_theme'
 html_title = 'StratiGraph documentation'
 
+# The brand, vendored from `stratigraph-brand` by its own
+# `docs-theme/sync-brand-docs.sh`, exactly as the apps vendor it: a manual read
+# in a trench has no CDN. Without `skins.css` the manual wears the StratiGraph
+# guidebook; the Extended Matrix manuals ship that file and wear EM instead.
+# Light and dark follow the reader's system setting.
+html_css_files = [
+    'brand/stratigraph-theme.css',
+    'brand/sphinx-rtd-bridge.css',
+]
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
