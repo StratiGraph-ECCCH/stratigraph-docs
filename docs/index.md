@@ -8,6 +8,15 @@ Every manual has two parts, and they are written for two different days: the par
 for whoever **works in** the tool, and the part for whoever **builds or installs**
 it. You are rarely both at once, and the index of each manual says which is which.
 
+```{figure} /_static/comics/in-the-trench.jpg
+:alt: In the trench, an archaeologist dictates a stratigraphic unit into a phone while a colleague confirms on a tablet.
+:width: 100%
+
+«US 2041: collapse of tiles and mortar. Covers 2038» — the sentence these manuals exist
+to keep. The whole day is drawn in the Academy, in
+[eight pictures](https://academy.stratigraph-eccch.eu/en/latest/ecosystem/a-day-in-eight-pictures.html).
+```
+
 ## The manuals
 
 ### The node, and its catalogue
