@@ -17,7 +17,7 @@ signatures that say who may see what, and the catalogue that publishes what a ro
 decides to publish. The manual tells how to work in a room and how to run a node of
 your own — the first day, the console, the users, the REST interface, the backups.
 
-→ [Read the node manual](https://docs.stratigraph-eccch.eu/node/)
+→ [Read the node manual](https://docs.stratigraph-eccch.eu/projects/node/en/latest/)
 
 ### StratiField, the field assistant
 
@@ -25,7 +25,7 @@ The tool that records on site, on a phone or on a laptop with no network, and
 synchronises with the node when there is one. It has its own manual because it is its
 own tool: what it records, how a field node works, how the field reaches the cloud.
 
-→ [Read the StratiField manual](https://docs.stratigraph-eccch.eu/field/)
+→ [Read the StratiField manual](https://docs.stratigraph-eccch.eu/projects/field/en/latest/)
 
 ### The recording templates
 
@@ -33,7 +33,7 @@ The sheets and the vocabularies a team starts from: the stratigraphic unit recor
 axes of status and origin, the modules a discipline adds. Published in English and in
 Italian.
 
-→ [Read the templates manual](https://docs.stratigraph-eccch.eu/templates/) · [in italiano](https://docs.stratigraph-eccch.eu/templates/it/)
+→ [Read the templates manual](https://docs.stratigraph-eccch.eu/projects/templates/en/v0.1.0/) · [in italiano](https://docs.stratigraph-eccch.eu/projects/templates/it/v0.1.0/)
 
 ## Elsewhere, on purpose
 

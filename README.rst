@@ -5,9 +5,9 @@ The landing project of ``docs.stratigraph-eccch.eu``: one address for the manual
 the StratiGraph tools, each of which lives beside its own code and is published here
 as a subproject.
 
-- the node and its catalogue — ``stratigraph-server`` → ``/node/``
-- the field assistant — ``stratigraph-stratifield`` → ``/field/``
-- the recording templates — ``stratigraph-templates`` → ``/templates/``
+- the node and its catalogue — ``stratigraph-server`` → ``/projects/node/``
+- the field assistant — ``stratigraph-stratifield`` → ``/projects/field/``
+- the recording templates — ``stratigraph-templates`` → ``/projects/templates/``
 
 The StratiGraph Academy has an address of its own, ``academy.stratigraph-eccch.eu``,
 because it teaches rather than describes, and may one day move to a course space.
