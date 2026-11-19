@@ -14,7 +14,8 @@ it. You are rarely both at once, and the index of each manual says which is whic
 
 «US 2041: collapse of tiles and mortar. Covers 2038» — the sentence these manuals exist
 to keep. The whole day is drawn in the Academy, in
-[eight pictures](https://academy.stratigraph-eccch.eu/en/latest/ecosystem/a-day-in-eight-pictures.html).
+[eight pictures](https://academy.stratigraph-eccch.eu/en/latest/ecosystem/a-day-in-eight-pictures.html);
+drawing by Emanuel Demetrescu (CNR-ISPC), made with the help of Gemini 3, CC BY 4.0.
 ```
 
 ## The manuals
