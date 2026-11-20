@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'StratiGraph documentation'
-copyright = '2026, Emanuel Demetrescu (CNR-ISPC) and the StratiGraph consortium'
+copyright = '2026, Consiglio Nazionale delle Ricerche (CNR) — Istituto di Scienze del Patrimonio Culturale'
 author = 'Emanuel Demetrescu'
 
 release = '1.6'

@@ -63,6 +63,27 @@ manual is published in English and Italian:
 button records it — is taught by the EM Academy and described in the language
 documentation at [docs.extendedmatrix.org](https://docs.extendedmatrix.org).
 
+## Where these tools come from
+
+StratiGraph — *Knowledge Graphs for Stratigraphy* — is a Horizon Europe Innovation Action
+(grant agreement 101232855, 2025–2029), coordinated by CNR-ISPC. It starts from a plain
+observation: stratigraphy is the backbone of archaeological and palaeontological reasoning,
+and it is still recorded in forms that software can store but cannot argue with. The tools
+documented here are the project's answer — a node that holds the work of a team, an
+assistant that records in a trench with no network, recording sheets mapped onto a shared
+ontology, and under all of them the graph that carries an interpretation from the edge of
+an excavation to a published study.
+
+The tools are built to join the **European Collaborative Cloud for Cultural Heritage**: a
+node federates with it rather than standing alone, so that a study made in one institution
+can be found, cited and reused in another. The project, its partners and its case studies
+are at [stratigraph-eccch.eu](https://stratigraph-eccch.eu); the grant is public on
+[CORDIS](https://cordis.europa.eu/project/id/101232855).
+
+The manuals are written beside the code they describe, by the people who write that code.
+Where a tool belongs to a partner or to the older Extended Matrix ecosystem, its manual
+says so and keeps its own house.
+
 ## Citing a manual
 
 Each manual carries the version of the tool it describes, and keeps its older versions
